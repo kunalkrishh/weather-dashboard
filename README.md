@@ -69,6 +69,9 @@ weather-dashboard/
 │── requirements.txt
 │── README.md
 ```
+## 📷 Screenshot
+
+![Weather Dashboard](Screenshot%202026-07-05%20111444.png)
 
 ---
 
